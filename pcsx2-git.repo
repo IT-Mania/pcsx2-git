@@ -1,4 +1,4 @@
-[ps4]
+[ps4-pcsx2-git]
 name=ps4-pcsx2-git
 baseurl=https://raw.githubusercontent.com/IT-mania/pcsx2-git/master/x86_64
 enabled=1
