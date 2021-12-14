@@ -1,0 +1,5 @@
+[ps4]
+name=ps4-pcsx2-git
+baseurl=https://raw.githubusercontent.com/IT-mania/pcsx2-git/master/x86_64
+enabled=1
+gpgcheck=0
